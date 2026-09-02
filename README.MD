@@ -64,4 +64,4 @@
 | :--- | :--- |
 | **Ao cá:** <br> • Đơn vị 3: 50,000 xu <br> • Đơn vị 4: 200,000 xu <br> • Đơn vị 5: 450,000 xu <br> • Đơn vị 6: 800,000 xu <br> • Đơn vị 7: 1,250,000 xu <br> • Đơn vị 8: 1,800,000 xu <br> • Đơn vị 9: 2,450,000 xu <br> • Đơn vị 10: 3,200,000 xu <br> **Tổng ao cá: 10,200,000 xu** <br><br> **Vật nuôi:** <br> • Đơn vị 11: 20,000 xu <br> • Đơn vị 12: 80,000 xu <br> • Đơn vị 13: 180,000 xu <br> • Đơn vị 14: 320,000 xu <br> • Đơn vị 15: 500,000 xu <br> • Đơn vị 16: 720,000 xu <br> • Đơn vị 17: 980,000 xu <br> • Đơn vị 18: 1,280,000 xu <br> • Đơn vị 19: 1,620,000 xu <br> • Đơn vị 20: 2,000,000 xu <br> **Tổng vật nuôi: 7,700,000 xu** | • Cấp 2: 50,000 xu <br> • Cấp 3: 100,000 xu <br> • Cấp 4: 50 lượng <br> • Cấp 5: 100 lượng <br> • Cấp 6: 150 lượng <br> • Cấp 7: 200 lượng & 50 CC <br> • Cấp 8: 250 lượng & 50 CC <br><br> **Tổng Rương Đồ:** <br> **150,000 xu + 750 lượng** |
 
-**Nguồn:** caycodon.vn
+
